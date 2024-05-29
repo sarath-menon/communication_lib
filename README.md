@@ -1,4 +1,4 @@
-Middleware package for robotics based. It is based on DDS (Data Distribution Services), an industry proven standard for real time communication. 
+Middleware package for robotics based on DDS (Data Distribution Services), an industry proven standard for real time communication. 
 
  It is a zero runtime overhead abstraction over native Fastdds
  
